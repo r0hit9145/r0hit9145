@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **folks**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/rohit-jangids-projects-b849329d/portf0lio](https://vercel.com/rohit-jangids-projects-b849329d/portf0lio)
+- 👨‍💻 All of my projects are available at https://portf0lio-qtlzog5cw-rohit-jangids-projects-b849329d.vercel.app/
 
 - 💬 Ask me about **data science and machine learning**
 
